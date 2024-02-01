@@ -30,6 +30,29 @@ A modelagem envolve a criação de representações abstratas de situações ou 
 
 - **Modelo de mercado:** Um modelo que utiliza dados históricos para prever o comportamento futuro do mercado de ações com base em indicadores como preço, volume de negociação e notícias econômicas.
 
+### Exemplo:
+Vamos considerar um exemplo que envolve os três conceitos de tomada de decisão, modelagem e suporte à decisão:
+
+**Cenário:** Uma empresa de varejo está enfrentando a decisão de abrir uma nova filial em uma cidade específica. A alta administração deseja tomar uma decisão informada considerando fatores como demografia, concorrência, localização potencial e custos operacionais.
+
+Aqui está como os três conceitos podem ser aplicados:
+
+**1. Tomada de Decisão:**
+   - Identificação do Problema: A empresa reconhece a oportunidade de expansão e a necessidade de tomar uma decisão estratégica.
+   - Análise de Dados: Coleta informações sobre a população da cidade, a renda média, o número de concorrentes, o acesso a fornecedores, entre outros fatores relevantes.
+   - Definição de Critérios: Estabelece critérios de decisão, como o potencial de mercado, a viabilidade financeira e a disponibilidade de mão de obra qualificada.
+
+**2. Modelagem:**
+   - Modelagem Demográfica: Cria um modelo que representa a distribuição demográfica da cidade, usando dados populacionais, faixa etária e renda média.
+   - Modelagem de Viabilidade Financeira: Constrói um modelo financeiro que projeta receitas e despesas estimadas ao longo dos próximos anos, considerando o tamanho da loja, custos de aluguel e salários.
+
+**3. Suporte à Decisão:**
+   - Utilização de Software de BI: A empresa utiliza um sistema de Business Intelligence para consolidar e visualizar dados demográficos e financeiros em painéis interativos.
+   - Análise de Sensibilidade: Utiliza o suporte à decisão para realizar análises de sensibilidade, modificando variáveis-chave nos modelos para entender como diferentes cenários afetam as projeções financeiras.
+   - Tomada de Decisão Informada: Com base nas análises e nos modelos, a alta administração pode tomar uma decisão informada sobre se abrir ou não a nova filial, escolhendo a localização mais promissora e alinhando-se aos critérios estabelecidos.
+
+Nesse exemplo, a tomada de decisão envolve a identificação do problema de expansão, a modelagem inclui a criação de modelos demográficos e financeiros, e o suporte à decisão é fornecido pelo uso de ferramentas de BI e análises sensíveis para ajudar a tomar uma decisão estratégica bem fundamentada.
+
 ### 3. Suporte à Decisão:
 O suporte à decisão envolve o uso de ferramentas, técnicas e sistemas para ajudar na análise de modelos e na tomada de decisões informadas. Aqui estão exemplos de suporte à decisão:
 
