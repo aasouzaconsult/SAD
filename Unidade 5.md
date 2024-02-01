@@ -30,3 +30,6 @@ Mais informações: [MRP](https://www.nomus.com.br/blog-industrial/o-que-e-o-mrp
 Uma empresa de produtos eletrônicos utiliza um sistema ERP para gerenciar sua produção. Quando um cliente faz um pedido, o sistema ERP verifica automaticamente os níveis de estoque, disponibilidade de máquinas, programação de produção e custos associados. Isso ajuda a empresa a atender rapidamente aos pedidos dos clientes, minimizando o desperdício de recursos.
 
 Mais informações: [SAP](https://www.sap.com/brazil/index.html?url_id=auto_hp_redirect_brazil) | [TOTVS](https://www.totvs.com/sistema-de-gestao/) | 
+
+
+![](https://blogdozouza.files.wordpress.com/2024/02/producao.png)
