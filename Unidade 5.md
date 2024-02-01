@@ -89,17 +89,19 @@ Você pode calcular o OEE com base nesses dados usando uma consulta SQL da segui
 
 ```sql
 SELECT 
-    (SUM(CASE WHEN TempoProducao > 0 THEN 1 ELSE 0 END) / COUNT(*)) * 100 AS Disponibilidade,
-    (SUM(UnidadesProduzidas) / SUM(TempoIdeal)) * 100 AS Desempenho,
-    (SUM(UnidadesBoas) / SUM(UnidadesProduzidas)) * 100 AS Qualidade,
-    ((SUM(CASE WHEN TempoProducao > 0 THEN 1 ELSE 0 END) / COUNT(*)) * 
-     (SUM(UnidadesProduzidas) / SUM(TempoIdeal)) * 
-     (SUM(UnidadesBoas) / SUM(UnidadesProduzidas))) AS OEE
+    (SUM(CASE WHEN TempoProducao > 0 THEN 1 ELSE 0 END) * 1.0 / COUNT(*)) * 100 AS Disponibilidade,
+    (SUM(UnidadesBoas) * 1.0 / SUM(TempoIdeal)) * 100 AS Desempenho,
+    (SUM(UnidadesBoas) * 1.0 / SUM(UnidadesProduzidas)) * 100 AS Qualidade,
+    ((SUM(CASE WHEN TempoProducao > 0 THEN 1 ELSE 0 END) * 1.0 / COUNT(*)) * 
+     (SUM(UnidadesBoas) * 1.0 / SUM(TempoIdeal)) * 
+     (SUM(UnidadesBoas) * 1.0 / SUM(UnidadesProduzidas))) AS OEE
 FROM Producao;
 ```
 
 Esta consulta calcula os três componentes do OEE (Disponibilidade, Desempenho e Qualidade) e depois multiplica-os para obter o OEE total.
 
 Lembre-se de adaptar essa consulta ao seu esquema de banco de dados real e aos dados reais que você tem em sua tabela "Producao". Certifique-se de que os nomes das colunas correspondam ao seu esquema de banco de dados real.
+
+-----------------
 
 ![](https://blogdozouza.files.wordpress.com/2024/02/producao.png)
