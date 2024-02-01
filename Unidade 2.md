@@ -1,4 +1,4 @@
-# UNIDADE II - Sistemas de Apoio à Decisão**
+# UNIDADE II - Sistemas de Apoio à Decisão
 
 ## 1. O que é um sistema de apoio à decisão (SAD):
    - **Definição:** Um Sistema de Apoio à Decisão (SAD) é uma ferramenta ou conjunto de ferramentas que auxilia os tomadores de decisão na análise de informações, avaliação de alternativas e na tomada de decisões informadas.
