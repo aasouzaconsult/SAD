@@ -30,6 +30,15 @@ A modelagem envolve a criação de representações abstratas de situações ou 
 
 - **Modelo de mercado:** Um modelo que utiliza dados históricos para prever o comportamento futuro do mercado de ações com base em indicadores como preço, volume de negociação e notícias econômicas.
 
+### 3. Suporte à Decisão:
+O suporte à decisão envolve o uso de ferramentas, técnicas e sistemas para ajudar na análise de modelos e na tomada de decisões informadas. Aqui estão exemplos de suporte à decisão:
+
+- **Sistemas de Business Intelligence (BI):** Ferramentas que coletam, analisam e apresentam dados empresariais para ajudar os gestores a tomar decisões estratégicas.
+- **Software de análise de dados:** Plataformas como o Excel, Tableau e Power BI que permitem a análise de dados e a criação de gráficos para embasar decisões.
+- **Sistemas de gestão de projetos:** Software que auxilia na alocação de recursos, programação e acompanhamento do progresso de projetos, ajudando a tomar decisões sobre a gestão de projetos.
+
+Esses são apenas alguns exemplos de como a tomada de decisão, modelagem e suporte à decisão são aplicados em diferentes contextos. Cada um desempenha um papel crucial na resolução de problemas e na melhoria da eficácia das decisões em diversas áreas.
+
 ### Exemplo:
 Vamos considerar um exemplo que envolve os três conceitos de tomada de decisão, modelagem e suporte à decisão:
 
@@ -53,14 +62,6 @@ Aqui está como os três conceitos podem ser aplicados:
 
 Nesse exemplo, a tomada de decisão envolve a identificação do problema de expansão, a modelagem inclui a criação de modelos demográficos e financeiros, e o suporte à decisão é fornecido pelo uso de ferramentas de BI e análises sensíveis para ajudar a tomar uma decisão estratégica bem fundamentada.
 
-### 3. Suporte à Decisão:
-O suporte à decisão envolve o uso de ferramentas, técnicas e sistemas para ajudar na análise de modelos e na tomada de decisões informadas. Aqui estão exemplos de suporte à decisão:
-
-- **Sistemas de Business Intelligence (BI):** Ferramentas que coletam, analisam e apresentam dados empresariais para ajudar os gestores a tomar decisões estratégicas.
-- **Software de análise de dados:** Plataformas como o Excel, Tableau e Power BI que permitem a análise de dados e a criação de gráficos para embasar decisões.
-- **Sistemas de gestão de projetos:** Software que auxilia na alocação de recursos, programação e acompanhamento do progresso de projetos, ajudando a tomar decisões sobre a gestão de projetos.
-
-Esses são apenas alguns exemplos de como a tomada de decisão, modelagem e suporte à decisão são aplicados em diferentes contextos. Cada um desempenha um papel crucial na resolução de problemas e na melhoria da eficácia das decisões em diversas áreas.
 
 ## 3. Estratégias para Tomada de Decisão
 As estratégias para tomada de decisão podem variar desde abordagens racionais e analíticas até métodos mais intuitivos. A escolha da estratégia depende do contexto da decisão, disponibilidade de dados e recursos, e a natureza do problema.
