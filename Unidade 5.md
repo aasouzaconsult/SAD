@@ -31,5 +31,75 @@ Uma empresa de produtos eletrônicos utiliza um sistema ERP para gerenciar sua p
 
 Mais informações: [SAP](https://www.sap.com/brazil/index.html?url_id=auto_hp_redirect_brazil) | [TOTVS](https://www.totvs.com/sistema-de-gestao/) | 
 
+## 6. OEE
+OEE (*Overall Equipment Effectiveness*), em português Eficiência Geral dos Equipamentos, é um indicador amplamente utilizado na gestão de produção e manufatura para avaliar o desempenho de equipamentos e processos de produção. Ele fornece uma medida abrangente da eficiência operacional e ajuda as empresas a identificar oportunidades de melhoria na produção.
+
+O OEE é calculado com base em três principais componentes:
+- **Disponibilidade:** Refere-se ao tempo em que o equipamento está disponível e pronto para produzir em relação ao tempo total disponível. Isso inclui paradas programadas, como manutenção, bem como paradas não programadas, como falhas e ajustes.
+   - Fórmula de Disponibilidade: Disponibilidade (%) = (Tempo de Produção Real / Tempo Total Disponível) x 100
+- **Desempenho:** Mede a eficiência real do equipamento durante o tempo de produção. Ele considera o desempenho em relação à velocidade ideal do equipamento, levando em consideração as taxas de produção e possíveis perdas de velocidade.
+   - Fórmula de Desempenho: Desempenho (%) = (Taxa de Produção Real / Taxa de Produção Ideal) x 100
+- **Qualidade:** Avalia a qualidade dos produtos fabricados. Isso leva em consideração produtos defeituosos, retrabalho e refugos em relação à produção total.
+   - Fórmula de Qualidade: Qualidade (%) = (Unidades Boas / Unidades Produzidas) x 100
+
+O OEE é calculado multiplicando-se esses três componentes:
+- **OEE (%) = Disponibilidade (%) x Desempenho (%) x Qualidade (%)**
+
+O resultado é um valor entre 0% (ineficiente) e 100% (máxima eficiência). Quanto mais próximo de 100%, melhor é o desempenho global dos equipamentos e processos de produção.
+
+O indicador OEE é valioso para a identificação de ineficiências e áreas de melhoria na produção. Por exemplo, uma baixa disponibilidade pode indicar que o equipamento está frequentemente parado devido a falhas, enquanto um baixo desempenho pode apontar para problemas de velocidade ou ajustes frequentes. Uma baixa qualidade sugere que há muitos produtos defeituosos sendo produzidos.
+
+### Exemplo
+Suponha que você tenha uma tabela chamada "Producao" com as seguintes colunas:
+
+- `DataProducao` (data e hora da produção)
+- `TempoProducao` (tempo de produção real em minutos)
+- `TempoIdeal` (tempo ideal de produção em minutos)
+- `UnidadesBoas` (número de unidades de produtos de boa qualidade)
+- `UnidadesProduzidas` (número total de unidades produzidas)
+
+```sql
+-- Criar tabela Producao
+CREATE TABLE Producao (
+    ID INT PRIMARY KEY IDENTITY(1,1),
+    DataProducao DATETIME,
+    TempoProducao INT, -- Tempo de produção real em minutos
+    TempoIdeal INT, -- Tempo ideal de produção em minutos
+    UnidadesBoas INT, -- Número de unidades de produtos de boa qualidade
+    UnidadesProduzidas INT -- Número total de unidades produzidas
+);
+
+-- Inserir dados de exemplo
+INSERT INTO Producao (DataProducao, TempoProducao, TempoIdeal, UnidadesBoas, UnidadesProduzidas)
+VALUES
+    ('2023-01-01 08:00:00', 240, 300, 250, 300),
+    ('2023-01-02 08:15:00', 225, 240, 220, 240),
+    ('2023-01-03 08:30:00', 260, 280, 270, 280),
+    ('2023-01-04 08:45:00', 280, 320, 290, 320),
+    ('2023-01-05 09:00:00', 210, 240, 200, 240),
+    ('2023-01-06 09:15:00', 220, 240, 210, 240),
+    ('2023-01-07 09:30:00', 300, 320, 310, 320),
+    ('2023-01-08 09:45:00', 280, 300, 270, 300),
+    ('2023-01-09 10:00:00', 260, 280, 250, 280),
+    ('2023-01-10 10:15:00', 230, 240, 220, 240);
+-- Você pode adicionar mais inserções de dados conforme necessário.
+```
+
+Você pode calcular o OEE com base nesses dados usando uma consulta SQL da seguinte forma:
+
+```sql
+SELECT 
+    (SUM(CASE WHEN TempoProducao > 0 THEN 1 ELSE 0 END) / COUNT(*)) * 100 AS Disponibilidade,
+    (SUM(UnidadesProduzidas) / SUM(TempoIdeal)) * 100 AS Desempenho,
+    (SUM(UnidadesBoas) / SUM(UnidadesProduzidas)) * 100 AS Qualidade,
+    ((SUM(CASE WHEN TempoProducao > 0 THEN 1 ELSE 0 END) / COUNT(*)) * 
+     (SUM(UnidadesProduzidas) / SUM(TempoIdeal)) * 
+     (SUM(UnidadesBoas) / SUM(UnidadesProduzidas))) AS OEE
+FROM Producao;
+```
+
+Esta consulta calcula os três componentes do OEE (Disponibilidade, Desempenho e Qualidade) e depois multiplica-os para obter o OEE total.
+
+Lembre-se de adaptar essa consulta ao seu esquema de banco de dados real e aos dados reais que você tem em sua tabela "Producao". Certifique-se de que os nomes das colunas correspondam ao seu esquema de banco de dados real.
 
 ![](https://blogdozouza.files.wordpress.com/2024/02/producao.png)
