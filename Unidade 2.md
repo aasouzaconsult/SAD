@@ -2,11 +2,13 @@
 
 ## 1. O que é um sistema de apoio à decisão (SAD):
    - **Definição:** Um Sistema de Apoio à Decisão (SAD) é uma ferramenta ou conjunto de ferramentas que auxilia os tomadores de decisão na análise de informações, avaliação de alternativas e na tomada de decisões informadas.
-   - **Características de um SAD:** 
-       - Integração de dados: Um SAD reúne dados de várias fontes para fornecer informações relevantes.
-       - Análise avançada: Ele oferece recursos analíticos, como modelagem e simulação, para ajudar na compreensão de cenários complexos.
-       - Interface amigável: A interface do SAD é projetada para ser fácil de usar, permitindo que os usuários explorem os dados de forma eficaz.
-       - Suporte à colaboração: Pode permitir que várias pessoas colaborem na tomada de decisões.
+   - **Características de um SAD:**
+      - **Integração de dados:** Um SAD reúne dados de várias fontes para fornecer informações relevantes.
+         - *Exemplo:* Imagine uma empresa de varejo que deseja melhorar seu planejamento de estoque. Seu SAD pode integrar dados de vendas históricas, registros de inventário, previsões de demanda e dados de fornecedores para fornecer informações abrangentes sobre os níveis de estoque e fazer pedidos de reposição de forma mais eficiente.
+         - *Ferramenta Sugestão:* Microsoft Power BI, Tableau, QlikView - Essas ferramentas de Business Intelligence permitem a integração de dados de várias fontes para análise e visualização.
+      - Análise avançada: Ele oferece recursos analíticos, como modelagem e simulação, para ajudar na compreensão de cenários complexos.
+      - Interface amigável: A interface do SAD é projetada para ser fácil de usar, permitindo que os usuários explorem os dados de forma eficaz.
+      - Suporte à colaboração: Pode permitir que várias pessoas colaborem na tomada de decisões.
    - **Componentes de um SAD:** Os principais componentes incluem hardware (computadores e servidores), software (aplicativos de análise), dados (informações para análise), modelos (representações de situações) e usuários (tomadores de decisão).
 
 ## 2. Modelos estáticos e dinâmicos:
