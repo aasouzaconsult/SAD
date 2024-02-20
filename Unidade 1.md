@@ -100,18 +100,19 @@ Existem diversas técnicas para facilitar a tomada de decisão, como `análise S
 Abaixo, vou explicar três técnicas comuns: `análise SWOT`, `brainstorming` e `árvores de decisão`, e fornecer exemplos para cada uma delas.
 
 **1. Análise SWOT (Forças, Fraquezas, Oportunidades e Ameaças):**
-   - **Definição:** A análise SWOT é uma técnica que ajuda a identificar e avaliar as Forças (Strengths) e Fraquezas (Weaknesses) internas de uma situação, bem como as Oportunidades (Opportunities) e Ameaças (Threats) externas. É frequentemente usada para análise estratégica.
+   - **Definição:** A análise [SWOT](https://pt.semrush.com/blog/analise-swot/) é uma técnica que ajuda a identificar e avaliar as Forças (Strengths) e Fraquezas (Weaknesses) internas de uma situação, bem como as Oportunidades (Opportunities) e Ameaças (Threats) externas. É frequentemente usada para análise estratégica.
    - **Exemplo:** Uma empresa está considerando a expansão para um novo mercado. A análise SWOT pode destacar suas forças internas, como marca forte, fraquezas, como falta de conhecimento do mercado, oportunidades, como demanda crescente, e ameaças, como concorrência acirrada.
 
 ![](https://static.semrush.com/blog/uploads/media/4b/78/4b78fd5dea8b3628dd1c3688a1d3d88a/PT-How-to-Do-a-SWOT-Analysis.webp)
 
 **2. Brainstorming:**
-   - **Definição:** O brainstorming é uma técnica de geração de ideias em grupo, onde os participantes são encorajados a compartilhar livremente suas ideias e sugestões. Não há julgamento das ideias durante a fase de brainstorming.
+   - **Definição:** O [brainstorming](https://miro.com/pt/brainstorming/o-que-e-brainstorming/) é uma técnica de geração de ideias em grupo, onde os participantes são encorajados a compartilhar livremente suas ideias e sugestões. Não há julgamento das ideias durante a fase de brainstorming.
    - **Exemplo:** Uma equipe de desenvolvimento de produtos se reúne para gerar ideias para um novo produto. Os membros da equipe fazem uma lista de todas as ideias possíveis, desde as mais práticas até as mais criativas, sem restrições.
 
 **3. Árvores de Decisão:**
-   - **Definição:** As árvores de decisão são diagramas que representam visualmente as alternativas de decisão e suas consequências. Elas ajudam a visualizar os diferentes caminhos que podem ser seguidos e a calcular probabilidades para escolher a melhor opção.
+   - **Definição:** As [árvores de decisão](https://www.lucidchart.com/pages/pt/o-que-e-arvore-de-decisao) são diagramas que representam visualmente as alternativas de decisão e suas consequências. Elas ajudam a visualizar os diferentes caminhos que podem ser seguidos e a calcular probabilidades para escolher a melhor opção.
    - **Exemplo:** Um investidor está considerando comprar ações de duas empresas, A e B. Ele cria uma árvore de decisão que lista os possíveis resultados financeiros (retorno sobre o investimento) para cada empresa, com base em diferentes cenários econômicos. A árvore de decisão ajuda o investidor a escolher a opção que maximiza o retorno esperado.
+![](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/seo/decision-tree/discovery/sample-decision-tree.svg)
 
 Essas são apenas algumas das técnicas de tomada de decisão disponíveis. A escolha da técnica apropriada depende da natureza da decisão, dos recursos disponíveis e da preferência pessoal. Em muitos casos, combinar várias técnicas pode ser útil para obter uma compreensão mais abrangente e informada das alternativas de decisão.
 
@@ -130,7 +131,7 @@ Os modelos de decisão são ferramentas essenciais na tomada de decisões, pois 
 
 ### Complexidade Variável
    - **Modelos Simples:** Modelos de decisão simples abordam problemas com poucas variáveis e relações diretas.
-      - *Exemplo*: Uma planilha que calcula o ROI (Retorno sobre o Investimento) de um projeto com base em custos e receitas.
+      - *Exemplo*: Uma planilha que calcula o [ROI (Retorno sobre o Investimento)](https://rockcontent.com/br/blog/roi/) de um projeto com base em custos e receitas.
 
    - **Modelos Complexos:** Modelos de decisão complexos lidam com problemas que envolvem muitas variáveis interconectadas e podem requerer software de modelagem avançada.
       - *Exemplo*: Modelos de simulação de mercado financeiro que consideram uma ampla gama de fatores econômicos, políticos e sociais para prever tendências de mercado.
