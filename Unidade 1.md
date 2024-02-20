@@ -94,14 +94,16 @@ Certamente, as estratégias para tomada de decisão podem ser categorizadas em v
 Lembre-se de que a escolha da estratégia de tomada de decisão depende do contexto específico, da complexidade do problema, dos recursos disponíveis e das preferências pessoais do tomador de decisão. Muitas vezes, uma combinação de abordagens pode ser a mais apropriada para garantir decisões bem informadas e eficazes.
 
 ## 4. Técnicas de Tomada de Decisão
-Existem diversas técnicas para facilitar a tomada de decisão, como análise SWOT, brainstorming, e árvores de decisão. Estas técnicas ajudam a estruturar o processo de decisão e a avaliar as alternativas de forma mais clara e objetiva.
+Existem diversas técnicas para facilitar a tomada de decisão, como `análise SWOT`, `brainstorming`, e `árvores de decisão`. Estas técnicas ajudam a estruturar o processo de decisão e a avaliar as alternativas de forma mais clara e objetiva.
 
 ### Técnicas de tomada de decisão
-Abaixo, vou explicar três técnicas comuns: análise SWOT, brainstorming e árvores de decisão, e fornecer exemplos para cada uma delas.
+Abaixo, vou explicar três técnicas comuns: `análise SWOT`, `brainstorming` e `árvores de decisão`, e fornecer exemplos para cada uma delas.
 
 **1. Análise SWOT (Forças, Fraquezas, Oportunidades e Ameaças):**
    - **Definição:** A análise SWOT é uma técnica que ajuda a identificar e avaliar as Forças (Strengths) e Fraquezas (Weaknesses) internas de uma situação, bem como as Oportunidades (Opportunities) e Ameaças (Threats) externas. É frequentemente usada para análise estratégica.
    - **Exemplo:** Uma empresa está considerando a expansão para um novo mercado. A análise SWOT pode destacar suas forças internas, como marca forte, fraquezas, como falta de conhecimento do mercado, oportunidades, como demanda crescente, e ameaças, como concorrência acirrada.
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.runrun.it%2Fmatriz-swot%2F&psig=AOvVaw3gAf8bPATa57pWIO_WR36K&ust=1708545934293000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIC94N3buoQDFQAAAAAdAAAAABAE)
 
 **2. Brainstorming:**
    - **Definição:** O brainstorming é uma técnica de geração de ideias em grupo, onde os participantes são encorajados a compartilhar livremente suas ideias e sugestões. Não há julgamento das ideias durante a fase de brainstorming.
