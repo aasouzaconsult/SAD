@@ -13,27 +13,27 @@ Já um exemplo de uma decisão complexa poderia ser uma empresa decidindo expand
 ### Tomada de Decisão:
 A tomada de decisão é o processo de escolher entre diferentes alternativas para resolver um problema ou aproveitar uma oportunidade. Envolve a avaliação de informações e a seleção da melhor opção com base em critérios predefinidos. Aqui estão alguns exemplos:
 
-- **Decisões de negócios:** Um CEO decidindo se deve expandir para um novo mercado internacional ou lançar um novo produto com base em análises de mercado e projeções financeiras.
+- ***Decisões de negócios:*** Um CEO decidindo se deve expandir para um novo mercado internacional ou lançar um novo produto com base em análises de mercado e projeções financeiras.
 
-- **Decisões médicas:** Um médico escolhendo o tratamento mais adequado para um paciente com base em sintomas, histórico médico e evidências científicas.
+- ***Decisões médicas:*** Um médico escolhendo o tratamento mais adequado para um paciente com base em sintomas, histórico médico e evidências científicas.
 
-- **Decisões pessoais:** Escolher entre duas ofertas de emprego com base em fatores como salário, localização e cultura da empresa.
+- ***Decisões pessoais:*** Escolher entre duas ofertas de emprego com base em fatores como salário, localização e cultura da empresa.
 
 ### Modelagem:
 A modelagem envolve a criação de representações abstratas de situações ou sistemas reais para ajudar na compreensão e análise. Esses modelos podem ser matemáticos, estatísticos, gráficos ou conceituais. Exemplos de modelagem incluem:
 
-- **Modelo financeiro:** Um modelo que prevê o desempenho financeiro de uma empresa com base em variáveis como receita, despesas e taxas de juros.
+- ***Modelo financeiro:*** Um modelo que prevê o desempenho financeiro de uma empresa com base em variáveis como receita, despesas e taxas de juros.
 
-- **Modelo de tráfego:** Um modelo que simula o fluxo de tráfego em uma cidade para otimizar a gestão do tráfego e minimizar congestionamentos.
+- ***Modelo de tráfego:*** Um modelo que simula o fluxo de tráfego em uma cidade para otimizar a gestão do tráfego e minimizar congestionamentos.
 
-- **Modelo de mercado:** Um modelo que utiliza dados históricos para prever o comportamento futuro do mercado de ações com base em indicadores como preço, volume de negociação e notícias econômicas.
+- ***Modelo de mercado:*** Um modelo que utiliza dados históricos para prever o comportamento futuro do mercado de ações com base em indicadores como preço, volume de negociação e notícias econômicas.
 
 ### Suporte à Decisão:
 O suporte à decisão envolve o uso de ferramentas, técnicas e sistemas para ajudar na análise de modelos e na tomada de decisões informadas. Aqui estão exemplos de suporte à decisão:
 
-- **Sistemas de Business Intelligence (BI):** Ferramentas que coletam, analisam e apresentam dados empresariais para ajudar os gestores a tomar decisões estratégicas.
-- **Software de análise de dados:** Plataformas como o Excel, Tableau e Power BI que permitem a análise de dados e a criação de gráficos para embasar decisões.
-- **Sistemas de gestão de projetos:** Software que auxilia na alocação de recursos, programação e acompanhamento do progresso de projetos, ajudando a tomar decisões sobre a gestão de projetos.
+- ***Sistemas de Business Intelligence (BI):*** Ferramentas que coletam, analisam e apresentam dados empresariais para ajudar os gestores a tomar decisões estratégicas.
+- ***Software de análise de dados:*** Plataformas como o Excel, Tableau e Power BI que permitem a análise de dados e a criação de gráficos para embasar decisões.
+- ***Sistemas de gestão de projetos:*** Software que auxilia na alocação de recursos, programação e acompanhamento do progresso de projetos, ajudando a tomar decisões sobre a gestão de projetos.
 
 Esses são apenas alguns exemplos de como a tomada de decisão, modelagem e suporte à decisão são aplicados em diferentes contextos. Cada um desempenha um papel crucial na resolução de problemas e na melhoria da eficácia das decisões em diversas áreas.
 
@@ -45,18 +45,18 @@ Vamos considerar um exemplo que envolve os três conceitos: `tomada de decisão`
 Aqui está como os três conceitos podem ser aplicados:
 
 **Tomada de Decisão:**
-   - Identificação do Problema: A empresa reconhece a oportunidade de expansão e a necessidade de tomar uma decisão estratégica.
-   - Análise de Dados: Coleta informações sobre a população da cidade, a renda média, o número de concorrentes, o acesso a fornecedores, entre outros fatores relevantes.
-   - Definição de Critérios: Estabelece critérios de decisão, como o potencial de mercado, a viabilidade financeira e a disponibilidade de mão de obra qualificada.
+   - *Identificação do Problema:* A empresa reconhece a oportunidade de expansão e a necessidade de tomar uma decisão estratégica.
+   - *Análise de Dados:* Coleta informações sobre a população da cidade, a renda média, o número de concorrentes, o acesso a fornecedores, entre outros fatores relevantes.
+   - *Definição de Critérios:* Estabelece critérios de decisão, como o potencial de mercado, a viabilidade financeira e a disponibilidade de mão de obra qualificada.
 
 **Modelagem:**
-   - Modelagem Demográfica: Cria um modelo que representa a distribuição demográfica da cidade, usando dados populacionais, faixa etária e renda média.
-   - Modelagem de Viabilidade Financeira: Constrói um modelo financeiro que projeta receitas e despesas estimadas ao longo dos próximos anos, considerando o tamanho da loja, custos de aluguel e salários.
+   - *Modelagem Demográfica:* Cria um modelo que representa a distribuição demográfica da cidade, usando dados populacionais, faixa etária e renda média.
+   - *Modelagem de Viabilidade Financeira:* Constrói um modelo financeiro que projeta receitas e despesas estimadas ao longo dos próximos anos, considerando o tamanho da loja, custos de aluguel e salários.
 
 **Suporte à Decisão:**
-   - Utilização de Software de BI: A empresa utiliza um sistema de Business Intelligence para consolidar e visualizar dados demográficos e financeiros em painéis interativos.
-   - Análise de Sensibilidade: Utiliza o suporte à decisão para realizar análises de sensibilidade, modificando variáveis-chave nos modelos para entender como diferentes cenários afetam as projeções financeiras.
-   - Tomada de Decisão Informada: Com base nas análises e nos modelos, a alta administração pode tomar uma decisão informada sobre se abrir ou não a nova filial, escolhendo a localização mais promissora e alinhando-se aos critérios estabelecidos.
+   - *Utilização de Software de BI:* A empresa utiliza um sistema de Business Intelligence para consolidar e visualizar dados demográficos e financeiros em painéis interativos.
+   - *Análise de Sensibilidade:* Utiliza o suporte à decisão para realizar análises de sensibilidade, modificando variáveis-chave nos modelos para entender como diferentes cenários afetam as projeções financeiras.
+   - *Tomada de Decisão Informada:* Com base nas análises e nos modelos, a alta administração pode tomar uma decisão informada sobre se abrir ou não a nova filial, escolhendo a localização mais promissora e alinhando-se aos critérios estabelecidos.
 
 Nesse exemplo, a tomada de decisão envolve a identificação do problema de expansão, a modelagem inclui a criação de modelos demográficos e financeiros, e o suporte à decisão é fornecido pelo uso de ferramentas de BI e análises sensíveis para ajudar a tomar uma decisão estratégica bem fundamentada.
 
