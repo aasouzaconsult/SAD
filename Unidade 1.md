@@ -62,6 +62,13 @@ Aqui está como os três conceitos podem ser aplicados:
 
 Nesse exemplo, a tomada de decisão envolve a identificação do problema de expansão, a modelagem inclui a criação de modelos demográficos e financeiros, e o suporte à decisão é fornecido pelo uso de ferramentas de BI e análises sensíveis para ajudar a tomar uma decisão estratégica bem fundamentada.
 
+### Softwares de BI
+- [Power BI](https://powerbi.microsoft.com/pt-br/landing/free-account/)
+- [Tableau](https://www.tableau.com/pt-br/products/public)
+- [Looker](https://lookerstudio.google.com/)
+- [Qlik](https://www.qlik.com/us)
+- [Quicksight](https://aws.amazon.com/pt/quicksight/)
+
 
 ## 3. Estratégias para Tomada de Decisão
 As estratégias para tomada de decisão podem variar desde abordagens racionais e analíticas até métodos mais intuitivos. A escolha da estratégia depende do contexto da decisão, disponibilidade de dados e recursos, e a natureza do problema.
