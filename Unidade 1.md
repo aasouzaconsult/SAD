@@ -8,6 +8,8 @@ Um exemplo de uma decisão simples poderia ser escolher entre duas marcas de caf
 
 Já um exemplo de uma decisão complexa poderia ser uma empresa decidindo expandir suas operações para um novo mercado internacional. Aqui, a decisão envolve múltiplos fatores como análise de mercado, custos, riscos, benefícios potenciais, e estratégias de entrada no mercado. Esta decisão requer uma análise detalhada e muitas vezes a colaboração de diferentes departamentos dentro da empresa.
 
+![](https://helporganizacao.com.br/wp-content/uploads/2018/06/tomar-uma-decisao.png)
+
 ## 2. Tomada de Decisão, Modelagem e Suporte
 
 ### Tomada de Decisão:
