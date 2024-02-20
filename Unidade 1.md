@@ -38,7 +38,7 @@ O suporte à decisão envolve o uso de ferramentas, técnicas e sistemas para aj
 Esses são apenas alguns exemplos de como a tomada de decisão, modelagem e suporte à decisão são aplicados em diferentes contextos. Cada um desempenha um papel crucial na resolução de problemas e na melhoria da eficácia das decisões em diversas áreas.
 
 ### Exemplo:
-Vamos considerar um exemplo que envolve os três conceitos de tomada de decisão, modelagem e suporte à decisão:
+Vamos considerar um exemplo que envolve os três conceitos: `tomada de decisão`, `modelagem` e `suporte à decisão`:
 
 **Cenário:** Uma empresa de varejo está enfrentando a decisão de abrir uma nova filial em uma cidade específica. A alta administração deseja tomar uma decisão informada considerando fatores como demografia, concorrência, localização potencial e custos operacionais.
 
