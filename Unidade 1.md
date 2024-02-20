@@ -103,7 +103,7 @@ Abaixo, vou explicar três técnicas comuns: `análise SWOT`, `brainstorming` e 
    - **Definição:** A análise SWOT é uma técnica que ajuda a identificar e avaliar as Forças (Strengths) e Fraquezas (Weaknesses) internas de uma situação, bem como as Oportunidades (Opportunities) e Ameaças (Threats) externas. É frequentemente usada para análise estratégica.
    - **Exemplo:** Uma empresa está considerando a expansão para um novo mercado. A análise SWOT pode destacar suas forças internas, como marca forte, fraquezas, como falta de conhecimento do mercado, oportunidades, como demanda crescente, e ameaças, como concorrência acirrada.
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.runrun.it%2Fmatriz-swot%2F&psig=AOvVaw3gAf8bPATa57pWIO_WR36K&ust=1708545934293000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIC94N3buoQDFQAAAAAdAAAAABAE)
+![](https://static.semrush.com/blog/uploads/media/4b/78/4b78fd5dea8b3628dd1c3688a1d3d88a/PT-How-to-Do-a-SWOT-Analysis.webp)
 
 **2. Brainstorming:**
    - **Definição:** O brainstorming é uma técnica de geração de ideias em grupo, onde os participantes são encorajados a compartilhar livremente suas ideias e sugestões. Não há julgamento das ideias durante a fase de brainstorming.
