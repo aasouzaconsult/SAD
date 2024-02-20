@@ -8,6 +8,8 @@ Um exemplo de uma decisão simples poderia ser escolher entre duas marcas de caf
 
 Já um exemplo de uma decisão complexa poderia ser uma empresa decidindo expandir suas operações para um novo mercado internacional. Aqui, a decisão envolve múltiplos fatores como análise de mercado, custos, riscos, benefícios potenciais, e estratégias de entrada no mercado. Esta decisão requer uma análise detalhada e muitas vezes a colaboração de diferentes departamentos dentro da empresa.
 
+*Leitura recomendada:* [Decisões: Entre café e grandes escolhas](https://medium.com/blog-do-zouza/decis%C3%B5es-entre-caf%C3%A9-e-grandes-escolhas-a31fc9da6cde)
+
 ![](https://helporganizacao.com.br/wp-content/uploads/2018/06/tomar-uma-decisao.png)
 
 ## 2. Tomada de Decisão, Modelagem e Suporte
@@ -87,6 +89,7 @@ Certamente, as estratégias para tomada de decisão podem ser categorizadas em v
 **Abordagem Baseada em Dados:**
    - **Definição:** Essa estratégia envolve a coleta e análise de dados relevantes para informar a tomada de decisão. Os dados são usados para identificar tendências e padrões que ajudam a embasar a escolha.
    - **Exemplo:** Um varejista que utiliza dados de vendas históricas, sazonalidade e preferências dos clientes para determinar os produtos a serem estocados e as estratégias de precificação.
+   - **Leitura recomendada:** [Organizações guiada por dados (Data Driven) — Conceito, dicas e um breve guia](https://medium.com/@aasouzaconsult/organiza%C3%A7%C3%B5es-guiada-por-dados-data-driven-conceito-dicas-e-um-breve-guia-bff4402e2db4)
 
 **Abordagem de Grupo/Colaborativa:**
    - **Definição:** Nessa estratégia, as decisões são tomadas em grupo, envolvendo várias pessoas com diferentes perspectivas e experiências. O objetivo é chegar a um consenso.
