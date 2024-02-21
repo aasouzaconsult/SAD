@@ -121,6 +121,8 @@ Abaixo, vou explicar três técnicas comuns: `análise SWOT`, `brainstorming` e 
    - **Definição:** O [brainstorming](https://miro.com/pt/brainstorming/o-que-e-brainstorming/) é uma técnica de geração de ideias em grupo, onde os participantes são encorajados a compartilhar livremente suas ideias e sugestões. Não há julgamento das ideias durante a fase de brainstorming.
    - **Exemplo:** Uma equipe de desenvolvimento de produtos se reúne para gerar ideias para um novo produto. Os membros da equipe fazem uma lista de todas as ideias possíveis, desde as mais práticas até as mais criativas, sem restrições.
 
+![](https://media.istockphoto.com/id/628220146/photo/business-people-diverse-brainstorm-meeting-concept.jpg?s=612x612&w=0&k=20&c=VeeLW99Klf3FeWhBnI7hurkpolQhxJ5RTUKbcwH8eMI=)
+
 **3. Árvores de Decisão:**
    - **Definição:** As [árvores de decisão](https://www.lucidchart.com/pages/pt/o-que-e-arvore-de-decisao) são diagramas que representam visualmente as alternativas de decisão e suas consequências. Elas ajudam a visualizar os diferentes caminhos que podem ser seguidos e a calcular probabilidades para escolher a melhor opção.
    - **Exemplo:** Um investidor está considerando comprar ações de duas empresas, A e B. Ele cria uma árvore de decisão que lista os possíveis resultados financeiros (retorno sobre o investimento) para cada empresa, com base em diferentes cenários econômicos. A árvore de decisão ajuda o investidor a escolher a opção que maximiza o retorno esperado.
