@@ -137,13 +137,17 @@ Os modelos de decisão são ferramentas essenciais na tomada de decisões, pois 
    - **Definição:** Os modelos de decisão são simplificações abstratas da realidade que capturam os principais elementos, relações e variáveis relevantes para o problema em questão. Eles permitem que os tomadores de decisão examinem cenários, identifiquem tendências e avaliem as consequências das escolhas.
 
 ### Qualitativos vs. Quantitativos
-   - **Modelos Qualitativos:** Esses modelos descrevem relações e elementos de forma descritiva e não numérica. Eles ajudam a entender os fatores subjacentes e as implicações das decisões. Exemplo: Diagrama de Causa e Efeito (Ishikawa) usado para identificar as causas de um problema.
+   - **Modelos Qualitativos:** Esses modelos descrevem relações e elementos de forma descritiva e não numérica. Eles ajudam a entender os fatores subjacentes e as implicações das decisões. Exemplo: Diagrama de Causa e Efeito ([Ishikawa](https://www.tecnicon.com.br/blog/541-Analise_de_causa_e_efeito_o_que_e_diagrama_de_Ishikawa_e_como_fazer)) usado para identificar as causas de um problema.
+
+![](https://keeps.com.br/wp-content/uploads/2021/07/diagrama-de-ishikawa-1-1024x534.png)
 
    - **Modelos Quantitativos:** Esses modelos usam números e fórmulas matemáticas para representar as relações e variáveis. Eles são usados para análises mais rigorosas e precisas. Exemplo: Modelo de Regressão Linear para prever o desempenho das vendas com base em variáveis como preço, publicidade e temporada.
 
 ### Complexidade Variável
    - **Modelos Simples:** Modelos de decisão simples abordam problemas com poucas variáveis e relações diretas.
       - *Exemplo*: Uma planilha que calcula o [ROI (Retorno sobre o Investimento)](https://rockcontent.com/br/blog/roi/) de um projeto com base em custos e receitas.
+         - [Esponja - Scrubdaddy](https://scrubdaddy.com/scrub-daddy-original/) | [Veja mais...](https://www.youtube.com/watch?v=ae5MssJ8en4)
+         - [Pedra - Pet Rock](https://www.amazon.com/Pet-Rock-Authentic-Approved-Original/dp/B07KN9FK4B)
 
    - **Modelos Complexos:** Modelos de decisão complexos lidam com problemas que envolvem muitas variáveis interconectadas e podem requerer software de modelagem avançada.
       - *Exemplo*: Modelos de simulação de mercado financeiro que consideram uma ampla gama de fatores econômicos, políticos e sociais para prever tendências de mercado.
