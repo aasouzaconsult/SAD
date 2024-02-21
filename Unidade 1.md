@@ -185,3 +185,8 @@ Herbert Simon é conhecido por sua frase célebre:
 Essa citação enfatiza a importância da tomada de decisão nas organizações e destaca como é fundamental para o sucesso da administração.
 
 Suas contribuições teóricas na área da tomada de decisão influenciaram significativamente a forma como os profissionais e acadêmicos compreendem e abordam o processo de tomada de decisão em várias disciplinas, incluindo administração, economia e psicologia.
+
+## Decisões não assertivas (exemplos)
+- [Kodak](https://www.startse.com/artigos/kodak-de-uma-das-empresas-mais-inovadoras-a-falencia/)
+- [Blockbuster](https://www.startse.com/artigos/como-a-falencia-da-blockbuster-tornou-a-netflix-a-maior-empresa-de-midia-do-mundo/)
+- [Nokia](https://exame.com/tecnologia/6-erros-que-levaram-a-nokia-da-gloria-a-decadencia/)
