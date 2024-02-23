@@ -192,3 +192,6 @@ Suas contribuições teóricas na área da tomada de decisão influenciaram sign
 - [Kodak](https://www.startse.com/artigos/kodak-de-uma-das-empresas-mais-inovadoras-a-falencia/)
 - [Blockbuster](https://www.startse.com/artigos/como-a-falencia-da-blockbuster-tornou-a-netflix-a-maior-empresa-de-midia-do-mundo/)
 - [Nokia](https://exame.com/tecnologia/6-erros-que-levaram-a-nokia-da-gloria-a-decadencia/)
+
+## Atividade em grupo
+- [PITCH COM APLICAÇÃO MODELO SWOT](https://blogdozouza.files.wordpress.com/2024/02/atividade-pitch-29-02.pdf)
