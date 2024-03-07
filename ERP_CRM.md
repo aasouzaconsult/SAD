@@ -51,7 +51,7 @@ Mais que as aplicabilidades já destacadas, essa solução também fornece mais 
 
 **CRM (Customer Relationship Management)**, ou Gestão de Relacionamento com o Cliente, é um sistema focado no gerenciamento das interações com clientes e potenciais clientes. Ele é usado para armazenar informações de contato, histórico de compras, preferências e para gerenciar campanhas de marketing e vendas.
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elexoft.com%2Fblogs%2Fcustomer-relationship-management-a-beginners-guide%2F&psig=AOvVaw1ikSDG6P08KfCrqdiS3_fx&ust=1709933555295000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCIsYmN44QDFQAAAAAdAAAAABAZ)
+![](https://s3.amazonaws.com/ibc-portal/wp-content/uploads/2016/03/27081921/Entenda-o-que-%C3%A9-CRM.jpg)
 
 ## Finalidade do CRM:
 - Gestão de relacionamento com clientes
