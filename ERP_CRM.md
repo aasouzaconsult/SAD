@@ -12,9 +12,9 @@
 
 ## Exemplos - Fabricantes de ERP:
 - [SAP](https://www.sap.com/brazil/cmp/dg/corporate-brand/index.html)
-- Oracle
-- TopManager
 - [TOTVS](https://www.totvs.com/)
+- [Oracle](https://www.oracle.com/br/erp/)
+- [TopManager](https://rcnbs.com.br/)
 
 ## Como funciona o sistema ERP?
 A aplicação do sistema de gestão integrado à rotina empresarial é simples: facilitar o gerenciamento das informações de diversos setores da organização para aumentar o controle e o acompanhamento dos processos. 
