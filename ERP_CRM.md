@@ -60,10 +60,10 @@ Mais que as aplicabilidades já destacadas, essa solução também fornece mais 
 - Segmentação para campanhas direcionadas
 
 ## Exemplos - Fabricantes de CRM:
-- Salesforce
-- Zoho CRM
-- HubSpot
-- [Microsoft Dynamics CRM]()
+- [Salesforce](https://www.salesforce.com/br/?ir=1)
+- [Zoho CRM](https://www.zoho.com/pt-br/crm/)
+- [HubSpot](https://www.hubspot.com/products/get-started-f049)
+- [Microsoft Dynamics CRM](https://dynamics.microsoft.com/pt-br/crm/)
 
 ## Mais informações
 [Como criar uma estratégia de CRM em sete etapas](https://dynamics.microsoft.com/pt-br/crm/how-to-build-crm-strategy/)
@@ -79,4 +79,8 @@ Mais que as aplicabilidades já destacadas, essa solução também fornece mais 
 # Atividade
 Com base no artigo: [Como criar uma estratégia de CRM em sete etapas](https://dynamics.microsoft.com/pt-br/crm/how-to-build-crm-strategy/)
 - Aplicar estas 7 etapas no seu projeto
-- Criar um banco de dados CRM (um protótipo com alguns dados)
+- Criar um banco de dados CRM (um protótipo com alguns dados) ou testar gratuitamente alguma ferramenta CRM.
+
+Obrigado e bons estudos!
+**Alex Souza**
+[redes sociais](https://linktr.ee/data.z)
