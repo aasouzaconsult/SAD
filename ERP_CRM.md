@@ -83,5 +83,4 @@ Com base no artigo: [Como criar uma estratégia de CRM em sete etapas](https://d
 
 Obrigado e bons estudos!
 
-**Alex Souza**
-[redes sociais](https://linktr.ee/data.z)
+**Alex Souza** - ([redes sociais](https://linktr.ee/data.z))
