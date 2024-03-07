@@ -82,5 +82,6 @@ Com base no artigo: [Como criar uma estratégia de CRM em sete etapas](https://d
 - Criar um banco de dados CRM (um protótipo com alguns dados) ou testar gratuitamente alguma ferramenta CRM.
 
 Obrigado e bons estudos!
+
 **Alex Souza**
 [redes sociais](https://linktr.ee/data.z)
