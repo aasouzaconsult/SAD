@@ -23,13 +23,11 @@ Mais informações: [MRP](https://www.nomus.com.br/blog-industrial/o-que-e-o-mrp
    - **Exemplo:** Uma empresa de alimentos usa o MRP II para planejar a produção de produtos alimentícios, considerando não apenas os ingredientes necessários, mas também a capacidade das máquinas e a disponibilidade da equipe de produção.
 
 ## 5. ERP (Enterprise Resource Planning):
-   - **Definição:** Os sistemas ERP são soluções de software integradas que abrangem vários departamentos e funções dentro de uma organização, incluindo produção, finanças, vendas e recursos humanos.
+   - **Definição:** Como [já vimos](https://github.com/aasouzaconsult/SAD/blob/main/ERP_CRM.md), os sistemas ERP são soluções de software integradas que abrangem vários departamentos e funções dentro de uma organização, incluindo produção, finanças, vendas e recursos humanos.
    - **Como Funciona:** Os sistemas ERP centralizam dados e processos, permitindo que as informações sejam compartilhadas em toda a empresa. Eles automatizam tarefas, melhoram a visibilidade e agilizam a tomada de decisões.
    - **Papel no Processo Produtivo:** Os sistemas ERP desempenham um papel fundamental na otimização do processo produtivo, integrando as operações de fabricação com outras áreas. Por exemplo, eles podem ajudar a programar a produção com base nas vendas e no estoque disponível, garantindo uma produção eficiente.
-### Exemplo de Uso de ERP:
-Uma empresa de produtos eletrônicos utiliza um sistema ERP para gerenciar sua produção. Quando um cliente faz um pedido, o sistema ERP verifica automaticamente os níveis de estoque, disponibilidade de máquinas, programação de produção e custos associados. Isso ajuda a empresa a atender rapidamente aos pedidos dos clientes, minimizando o desperdício de recursos.
 
-Mais informações: [SAP](https://www.sap.com/brazil/index.html?url_id=auto_hp_redirect_brazil) | [TOTVS](https://www.totvs.com/sistema-de-gestao/) | 
+[Mais informações...](https://github.com/aasouzaconsult/SAD/blob/main/ERP_CRM.md)
 
 ## 6. OEE
 OEE (*Overall Equipment Effectiveness*), em português Eficiência Geral dos Equipamentos, é um indicador amplamente utilizado na gestão de produção e manufatura para avaliar o desempenho de equipamentos e processos de produção. Ele fornece uma medida abrangente da eficiência operacional e ajuda as empresas a identificar oportunidades de melhoria na produção.
