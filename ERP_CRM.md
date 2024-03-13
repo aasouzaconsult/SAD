@@ -15,6 +15,10 @@
 - [TOTVS](https://www.totvs.com/)
 - [Oracle](https://www.oracle.com/br/erp/)
 - [TopManager](https://rcnbs.com.br/)
+- [Senior](https://www.senior.com.br/)
+- Propósitos específicos
+  - [MAXIPROD](https://maxiprod.com.br/)
+  - [Fortes](https://www.fortestecnologia.com.br/gestao-corporativa/)
 
 ## Como funciona o sistema ERP?
 A aplicação do sistema de gestão integrado à rotina empresarial é simples: facilitar o gerenciamento das informações de diversos setores da organização para aumentar o controle e o acompanhamento dos processos. 
@@ -61,9 +65,15 @@ Mais que as aplicabilidades já destacadas, essa solução também fornece mais 
 
 ## Exemplos - Fabricantes de CRM:
 - [Salesforce](https://www.salesforce.com/br/?ir=1)
+  - Empresa especializada - [Everymind](https://everymind.com.br/)
 - [Zoho CRM](https://www.zoho.com/pt-br/crm/)
 - [HubSpot](https://www.hubspot.com/products/get-started-f049)
 - [Microsoft Dynamics CRM](https://dynamics.microsoft.com/pt-br/crm/)
+- [Pipedrive](https://www.pipedrive.com/pt/gettingstarted)
+- [Moskit](https://www.moskitcrm.com/)
+- [Sydle](https://www.sydle.com/crm/?customer-relationship-platform)
+- [Servicenow CRM](https://www.servicenow.com/lpdem/demonow-beyond-crm.html)
+- [Nectar CRM](https://marketing.nectarcrm.com.br/lp-ldm)
 
 ## Mais informações
 [Como criar uma estratégia de CRM em sete etapas](https://dynamics.microsoft.com/pt-br/crm/how-to-build-crm-strategy/)
