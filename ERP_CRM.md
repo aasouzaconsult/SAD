@@ -76,9 +76,6 @@ Mais que as aplicabilidades já destacadas, essa solução também fornece mais 
 - [Servicenow CRM](https://www.servicenow.com/lpdem/demonow-beyond-crm.html)
 - [Nectar CRM](https://marketing.nectarcrm.com.br/lp-ldm)
 
-## Mais informações
-[Como criar uma estratégia de CRM em sete etapas](https://dynamics.microsoft.com/pt-br/crm/how-to-build-crm-strategy/)
-
 # Diferenças Entre ERP e CRM:
 
 | Aspecto          | ERP                                               | CRM                                      |
@@ -86,6 +83,11 @@ Mais que as aplicabilidades já destacadas, essa solução também fornece mais 
 | Foco Principal   | Gestão interna de recursos empresariais           | Relacionamento com clientes              |
 | Áreas Envolvidas | Finanças, RH, Produção, Logística, etc.           | Vendas, Marketing, Serviço ao Cliente    |
 | Objetivo         | Otimização de processos e recursos                | Aumento de vendas e melhoria do serviço  |
+
+## Outros
+
+- [BPM - Business Process Management](https://www.pipefy.com/pt-br/blog/business-process-management-bpm/)
+- [ECM - Enterprise Content Management](https://www.totvs.com/blog/negocios/ecm/)
 
 # Atividade
 Com base no artigo: [Como criar uma estratégia de CRM em sete etapas](https://dynamics.microsoft.com/pt-br/crm/how-to-build-crm-strategy/)
