@@ -49,7 +49,8 @@ Desse modo, fica claro que todos os setores são beneficiados. No entanto, saber
 
 Mais que as aplicabilidades já destacadas, essa solução também fornece mais transparência às ações executadas, sem deixar de lado a segurança de dados.
 
-[Mais informações...](https://www.totvs.com/blog/erp/o-que-e-erp/)
+- [Mais informações...](https://www.totvs.com/blog/erp/o-que-e-erp/)
+- [ERP Web](https://www.gartner.com/doc/reprints?id=1-2EUFL45U&ct=230830&st=sb)
 
 # O que é CRM?
 
