@@ -1,4 +1,4 @@
-# Exemplo 1 - Vendas Desnormalizada
+# Exemplo 1 - Vendas
 
 ## Criando a tabela
 ```sql
