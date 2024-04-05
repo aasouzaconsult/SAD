@@ -12,8 +12,6 @@
 - [Case 2 - ERP](https://github.com/aasouzaconsult/SAD/blob/main/bd_erp.bak)
 - [Case 3 - Empresas]()
 
-![](https://github.com/aasouzaconsult/SAD/blob/main/SAD-DW.jpg)
-
 ### Unidade 4 - Descoberta de Conhecimento ([KDD](https://medium.com/blog-do-zouza/knowledge-discovery-in-databases-kdd-462ea2775715) | [CRISP-DM](https://medium.com/blog-do-zouza/metodologia-crisp-dm-uma-abordagem-abrangente-para-projetos-de-dados-d7e7135b907e))
 ### [Unidade 5 - Sistemas de Gestão da Produção](https://github.com/aasouzaconsult/SAD/blob/main/Unidade%205.md)
 
