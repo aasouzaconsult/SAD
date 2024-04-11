@@ -60,7 +60,5 @@ SELECT * FROM Vendas;
 ```
 
 ## Criar o Data Warehouse
-ODS, Tabela Fato e Dimensões!
+Tabela Fato e Dimensões!
 Não se esqueça da tabela dimensão de data!
-
-
