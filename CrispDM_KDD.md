@@ -34,4 +34,4 @@ O CRISP-DM serve como uma estrutura de projeto, orientando as decisões estraté
 A combinação de CRISP-DM e KDD oferece uma metodologia completa para Sistemas de Apoio à Decisão, garantindo que os projetos de mineração de dados sejam não só tecnicamente viáveis mas também alinhados com os objetivos estratégicos da organização. Este artigo serve como um guia para entender como esses dois processos trabalham juntos para transformar dados em decisões.
 
 --------------------------
-![](https://wordpress.com/e91ef6aa-9ddf-443e-b3fb-623558c76c0f)
+![](https://blogdozouza.files.wordpress.com/2024/05/dallc2b7e-2024-05-16-20.29.57-a-refined-digital-illustration-for-a-business-oriented-decision-support-system-integrating-crisp-dm-and-kdd.-set-in-a-corporate-office-featuring-a-d.webp)
