@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Em um mundo orientado por dados, a capacidade de transformar informações brutas em insights acionáveis é crucial para qualquer organização. Este artigo explora como os modelos de processo CRISP-DM e KDD se complementam e são essenciais para o desenvolvimento de Sistemas de Apoio à Decisão eficazes.
+Em um mundo cada vez mais orientado por dados, a capacidade de transformar informações brutas em insights acionáveis é crucial para qualquer organização. Este artigo explora como os modelos de processo CRISP-DM e KDD se complementam e são essenciais para o desenvolvimento de Sistemas de Apoio à Decisão eficazes.
 
 ## CRISP-DM: O Roteiro Estratégico
 
@@ -34,4 +34,4 @@ O CRISP-DM serve como uma estrutura de projeto, orientando as decisões estraté
 A combinação de CRISP-DM e KDD oferece uma metodologia completa para Sistemas de Apoio à Decisão, garantindo que os projetos de mineração de dados sejam não só tecnicamente viáveis mas também alinhados com os objetivos estratégicos da organização. Este artigo serve como um guia para entender como esses dois processos trabalham juntos para transformar dados em decisões.
 
 --------------------------
-![](blob:https://wordpress.com/e91ef6aa-9ddf-443e-b3fb-623558c76c0f)
+![](https://wordpress.com/e91ef6aa-9ddf-443e-b3fb-623558c76c0f)
