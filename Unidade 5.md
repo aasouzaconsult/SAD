@@ -5,6 +5,8 @@
    - **Conceitos Chave:** Variáveis de gestão da produção incluem planejamento da produção, controle de estoque, programação da produção, gerenciamento da qualidade e otimização de recursos.
    - **Exemplo:** Uma fábrica de automóveis utiliza a gestão da produção para coordenar a produção de veículos, desde a aquisição de matérias-primas até a montagem final, para atender às demandas de mercado com eficiência.
 
+Veja: [Sistema Toyota de Produção](https://www.toyota.com.br/mundo-toyota/sistema-toyota-de-producao) | [Vídeo](https://www.youtube.com/watch?v=SH8IItbvH_0)
+
 ## 2. Formulações Matemáticas para Gestão de Produção:
    - **Definição:** Formulações matemáticas são modelos quantitativos que auxiliam na tomada de decisões relacionadas à gestão da produção. Eles envolvem equações e fórmulas que ajudam a otimizar variáveis como produção, estoque e distribuição.
    - **Exemplo:** Uma formulação matemática para a gestão de estoque pode ser o Modelo de Lote Econômico (EOQ), que calcula a quantidade ideal a ser encomendada para minimizar os custos totais de estoque.
