@@ -2,7 +2,7 @@
 
 - [Livro sugerido I](https://www.amazon.com.br/Business-Intelligence-An%C3%A1lise-Gest%C3%A3o-Neg%C3%B3cio/dp/8582605196/)
 - [Livro sugerido II](https://www.amazon.com.br/Data-Science-para-neg%C3%B3cios-Fawcett/dp/8576089726)
-- [Material de Apoio - SAD]()
+- [Material de Apoio - SAD](https://github.com/aasouzaconsult/SAD/blob/main/SAD%20-%203.pdf)
 
 ## Unidades
 ### [Unidade 1 - Introdução à Tomada de Decisão](https://github.com/aasouzaconsult/SAD/blob/main/Unidade%201.md)
